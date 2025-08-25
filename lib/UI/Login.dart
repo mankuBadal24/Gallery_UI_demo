@@ -58,7 +58,7 @@ class _LoginState extends State<Login> {
                     decoration: InputDecoration(
                       labelText: "Email",
                       border: OutlineInputBorder(),
-                      hint: Text("Enter your email address"),
+                      hint: Text("mayank@gmail.com"),
                     ),
                   ),
                   SizedBox(height:12),
@@ -68,7 +68,7 @@ class _LoginState extends State<Login> {
                     decoration: InputDecoration(
                       labelText: "Password",
                       border: OutlineInputBorder(),
-                      hint: Text("Enter your password"),
+                      hint: Text("Pass- 7658"),
                     ),
                   ),
                   Padding(
